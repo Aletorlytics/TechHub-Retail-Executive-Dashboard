@@ -2,8 +2,24 @@
 
 <img width="1349" height="761" alt="Screenshot 2025-10-31 134006" src="https://github.com/user-attachments/assets/3a7c047d-1280-4513-bbed-2ada964a908d" />
 
-## End-to-end Tableau business intelligence project integrating sales, customer, and product data to deliver executive KPIs, segmentation insights, and a 2025 growth strategy.
+## 🚡End-to-end Tableau business intelligence project integrating sales, customer, and product data to deliver executive KPIs, segmentation insights, and a 2025 growth strategy.
 ### This project integrates three structured datasets in Tableau using relationships and calculated fields to build an executive-level dashboard. The analysis covers profitability trends, customer lifetime value, acquisition performance, seasonal forecasting, and supplier evaluation. Designed to support data-driven strategic decisions for retail growth planning.
+
+Table of Content
+
+- [ProjectOverview](#project-overview)
+- [Business Problem](#business-problem)
+- [Tools & Technologies](#tools-&-technologies)
+- [Data Integration](#data-integration)
+- [Multi-Dataset Integration](#multi-dataset-integration)
+- [Feature Engineering & KPIs](#Feature-engineering-&-kpis)
+- [Dashboard Highlights](#dashboard-highlights)
+- [Key Insights](#key-insights)
+- [Strategic Recommendations](#strategic-recommendations)
+- [
+
+
+
 ### 🏢Project Overview
 This project delivers an end-to-end Business Intelligence solution for a UK-based online electronics retailer. Using Tableau, I integrated multi-source retail data to build an executive dashboard that analyzes revenue growth, profitability, customer lifetime value, product performance, and seasonal trends.
 The dashboard supports data-driven strategic planning for 2025 through KPI tracking, segmentation analysis, and forecasting.
@@ -37,7 +53,7 @@ Relationships were created between:
 - Sales → Products
 <img width="621" height="305" alt="Screenshot 2025-10-29 145827" src="https://github.com/user-attachments/assets/7828843d-b4db-42a3-8a3a-9ddd0e91a0d4" />
 
-### Multi-Dataset Integration Summary
+### Multi-Dataset Integration
 Integration Method
 The datasets were connected using Tableau Relationships instead of physical joins to preserve data grain and prevent duplication.
 
