@@ -1,11 +1,12 @@
-# TechHub-Retail-Executive-Dashboard
+## 🚡End-to-end Tableau business intelligence project integrating sales, customer, and product data to deliver executive KPIs, segmentation insights, and a 2025 growth strategy.
+
+### 🪗This project integrates three structured datasets in Tableau using relationships and calculated fields to build an executive-level dashboard. The analysis covers profitability trends, customer lifetime value, acquisition performance, seasonal forecasting, and supplier evaluation. Designed to support data-driven strategic decisions for retail growth planning.
+
+### TechHub-Retail-Executive-Dashboard
 
 <img width="1349" height="761" alt="Screenshot 2025-10-31 134006" src="https://github.com/user-attachments/assets/3a7c047d-1280-4513-bbed-2ada964a908d" />
 
-## 🚡End-to-end Tableau business intelligence project integrating sales, customer, and product data to deliver executive KPIs, segmentation insights, and a 2025 growth strategy.
-### This project integrates three structured datasets in Tableau using relationships and calculated fields to build an executive-level dashboard. The analysis covers profitability trends, customer lifetime value, acquisition performance, seasonal forecasting, and supplier evaluation. Designed to support data-driven strategic decisions for retail growth planning.
-
-Table of Content
+### Table of Content
 
 - [ProjectOverview](#project-overview)
 - [Business Problem](#business-problem)
@@ -16,9 +17,7 @@ Table of Content
 - [Dashboard Highlights](#dashboard-highlights)
 - [Key Insights](#key-insights)
 - [Strategic Recommendations](#strategic-recommendations)
-- [
-
-
+- [Conclusion](#Conclusion)
 
 ### 🏢Project Overview
 This project delivers an end-to-end Business Intelligence solution for a UK-based online electronics retailer. Using Tableau, I integrated multi-source retail data to build an executive dashboard that analyzes revenue growth, profitability, customer lifetime value, product performance, and seasonal trends.
